@@ -1,0 +1,3 @@
+@echo off
+cd C:\Users\ashin\eclipse-workspace\adactinhotelapp
+mvn test

@@ -37,4 +37,6 @@ public class Configuration_Reader {
 		String validpassword = prop.getProperty("validpassword");
 		return validpassword;
 	}
+	
+	
 }
